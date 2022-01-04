@@ -1,0 +1,178 @@
+.banner{
+    width: auto;
+    clip: auto;
+    height: 500px;
+    align-items: center;
+}
+
+hr{
+    width: 40px;
+    border-width: 3px;
+    border-color: #A24936;  
+    
+    border-top-left-radius: 5px;
+    margin-left: 1px; 
+    margin-top: -15px;
+    
+}
+
+.content{
+    text-align: justify;
+}
+
+.img_scroll{
+
+
+      /* Full height */
+  height: 500px; 
+  
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+  background-attachment: fixed;
+
+}
+.umg_color{
+   padding-top: 140px;
+    background-color: #0E4044;
+    padding-bottom: 130px;
+    color: #F9F4F1;
+   
+}
+
+.img1{
+    background-image: url(./Public/Images/t.png);
+}
+
+.section4{
+    background-color: #0E4044;
+padding-top: 50px;
+
+    padding-bottom: 150px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@92.6,622&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vujahday+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+
+.table_text{
+    font-family: 'Lora', serif;
+    font-size: 22px;
+    font-weight: 600px;
+    font-style: normal;
+  
+}
+
+.row1{
+    color: #4B4E6D;
+}
+.row2{
+    color: #B84A62;
+}
+.row3{
+    color: #3C787E;
+}
+
+.row4{
+    color: #3C6E71;
+}
+
+.important_dates{
+    text-align: justify;
+    font-size: 32px;
+}
+.icisml_bg{
+    background-color: white;
+}
+.icisml_heading{
+    font-family: 'Lora', serif;
+    font-size: 32px;
+    font-weight: 600px;
+    font-style: normal;
+    color: #064789;
+
+}
+
+.icisml_subline{
+   
+    font-family: 'Lora', serif;
+    font-size: 15px;
+    font-weight: 600px;
+    font-style: normal;
+    color: #4E4A59;
+    margin-bottom: 3px;
+}
+.icisml_subline_hr{
+    width: 40px;
+    border-width: 3px;
+    border-color: #C44536;  
+    
+    border-top-left-radius: 5px;
+    margin-left: 50%; 
+    margin-top: -15px;
+
+}
+.easy_chair_logo{
+    width: 100%;
+}
+
+.Clg_about{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.About_content{
+font-size: 18px;
+}
+
+
+.Acc{
+    color: #F9F4F1;
+}
+
+
+
+
+
+  .icisml_heading_top{
+    font-family: 'Lora', serif;
+    font-size: 23px;
+    font-weight: 600px;
+    font-style: normal;
+    color: #064789;
+    align-items: center;
+
+}
+.footer_about{
+    text-align: justify;
+
+ margin-top: 60px; 
+ margin-left: 100px; 
+
+
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    font-weight: 600px;
+    font-style: normal;
+    color: #F9F4F1;
+   
+}
+
+.cfp{
+    margin-bottom: 25px;
+}
+.icisml_subline_hr_about{
+
+      width: 40px;
+    border-width: 3px;
+    border-color: #C44536;  
+    
+    border-top-left-radius: 5px;
+    margin-left: 10%; 
+    margin-top: -15px;
+
+}
+
+
