@@ -159,33 +159,41 @@ font-size: 18px;
     margin-left: 10%; 
     margin-top: -15px;
 
+
 }
+
+
 li{
-    padding-right: 10px;
+    margin-right: 10px;
+    font-weight: bolder;
+}
+
+
+.nav_bg{
+
+    background: #fff;
+    padding-bottom: 20px;
+    
 }
 
 li a:hover:not(.activer) {
-    background-color: #DB1F48;
+    border-bottom:  3px solid #004369;
     border-radius: 25px;
-    color: white;
+    color: #004369;
+   
+   
   }
   
   .activer {
-    background-color: #DB1F48;
+    border-bottom:  3px solid #004369;
     border-radius: 25px;
-    color: white;
+    
+    
+    color: #004369;
      }
   
-  .nav_bar{
-     background: #004369;
-  
-     
- 
-    
-    }
-
     a{
-        color: white;
+        color: rgb(30, 25, 105);
     }
 
     .locs_subline{
@@ -232,7 +240,7 @@ color: white;
 
 footer {
     margin-top: 40px;
-    position: fixed;
+    
     left: 0;
     bottom: 0;
     width: 100%;
@@ -253,4 +261,42 @@ footer {
     padding: 10px;
     margin-bottom: 5px;
 
+}
+.main_head{
+    font-weight: bold;
+    font-size: 22px;
+    color: #064789;
+    text-align: center;
+}
+
+
+.cpf_head{
+    margin-top: 15%;
+    margin-bottom: 2%;
+
+}
+
+
+.text_cpf{
+    text-align: justify;
+    font-weight: 400;
+}
+.submit_button{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 25px;
+}
+.header_cpf_text{
+    background-color: #064789;
+    padding-top:7px;
+    padding-bottom: 7px;
+
+}
+
+.cpf_heading_style{
+    color: white;
+    font-size: 32px;
+    font-weight: bolder;
+    text-align: center;
 }
