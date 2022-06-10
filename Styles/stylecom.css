@@ -304,3 +304,11 @@ footer {
     
     }
   }
+
+  @media only screen and (max-width: 300px) {
+    .cpf_head{
+        margin-top: 150%;
+        margin-bottom: 5%;
+    
+    }
+  }
