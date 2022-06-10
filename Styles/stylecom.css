@@ -294,3 +294,13 @@ footer {
 .spektext{
     text-align: justify;
 }
+
+
+
+@media only screen and (max-width: 600px) {
+    .cpf_head{
+        margin-top: 80%;
+        margin-bottom: 5%;
+    
+    }
+  }
